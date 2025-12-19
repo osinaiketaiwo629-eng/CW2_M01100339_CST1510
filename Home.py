@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 
 
 st.header("Home")
-st.write("Welcome to the Home Page. Please log in or register to continue.")    
+st.write("Welcome to the Home . Please log in or register to continue.")    
 
 
 
