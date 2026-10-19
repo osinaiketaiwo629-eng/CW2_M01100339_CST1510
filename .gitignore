@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.dbf
+*.pdf
+users.txt
+/CW2_M01100339_CST1510/
