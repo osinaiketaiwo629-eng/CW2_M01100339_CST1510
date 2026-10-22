@@ -1,4 +1,4 @@
-## Project Name: Telligence Platform
+## Telligence Platform
 
 Telligence is a multi-page web app built using python and streamlit and is used for three specific areas: Cybersecurity, Data Science and IT Operations. Users can register and log in, explore and visualise the data stored in an SQLite database.
 
